@@ -8,3 +8,6 @@ Uma biblioteca Python para manipulação de imagens, usando Pillow.
 - Conversão para preto e branco
 - Adição de texto em imagens
 - Aplicação de filtros de desfoque e inversão de cores
+
+## Instalação
+- pip install imagic2u
