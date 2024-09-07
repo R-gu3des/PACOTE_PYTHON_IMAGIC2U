@@ -1,4 +1,4 @@
-# Imagic
+# Imagic2u
 
 Uma biblioteca Python para manipulação de imagens, usando Pillow.
 
